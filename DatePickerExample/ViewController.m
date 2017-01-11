@@ -34,6 +34,8 @@
     
     [self presentViewController:action animated:YES completion:nil];
 
+    NSLog(@"In the displayDay method");
+    
     
     //
 }
